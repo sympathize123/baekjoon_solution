@@ -1,0 +1,4 @@
+﻿  14939.cpp
+C:\Users\fidus\OneDrive\Desktop\백준\14939\14939\14939.cpp(48,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fidus\OneDrive\Desktop\백준\14939\14939\14939.cpp(60,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  14939.vcxproj -> C:\Users\fidus\OneDrive\Desktop\백준\14939\Debug\14939.exe

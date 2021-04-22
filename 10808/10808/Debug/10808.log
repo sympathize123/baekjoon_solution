@@ -1,0 +1,4 @@
+﻿  10808.cpp
+C:\Users\fidus\OneDrive\Desktop\백준\10808\10808\10808.cpp(12,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fidus\OneDrive\Desktop\백준\10808\10808\10808.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  10808.vcxproj -> C:\Users\fidus\OneDrive\Desktop\백준\10808\Debug\10808.exe

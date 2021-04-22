@@ -1,0 +1,4 @@
+﻿  1918.cpp
+C:\Users\fidus\OneDrive\Desktop\백준\1918\1918\1918.cpp(34,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fidus\OneDrive\Desktop\백준\1918\1918\1918.cpp(74,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1918.vcxproj -> C:\Users\fidus\OneDrive\Desktop\백준\1918\Debug\1918.exe
